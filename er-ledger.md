@@ -1,4 +1,4 @@
-# Domain
+# Ledger Domain
 * Aggregate Root: Account, Book
 * Entities: Lot, Period, Price, Security
 * Value Object: JournalEntry, Transaction
