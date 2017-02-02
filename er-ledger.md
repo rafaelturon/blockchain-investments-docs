@@ -4,4 +4,4 @@
 * Value Object: JournalEntry, Transaction
 
 # Entity-Relationship Diagram
-![Entity-Relationship Diagram](https://github.com/rafaelturon/blockchain-investments-docs/raw/master/images/er-diagram.png)
+![Entity-Relationship Diagram](https://github.com/rafaelturon/blockchain-investments-docs/raw/master/images/er-ledger-diagram.png)
